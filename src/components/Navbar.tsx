@@ -20,10 +20,10 @@ const Navbar = () => {
           <Link 
             to="/" 
             className="absolute left-4 md:left-8 -top-2 z-10"
-          >
+          > 
             <div className="bg-primary border-4 border-foreground p-3 md:p-4 shadow-brutal transform -rotate-3 hover:rotate-0 transition-transform">
               <span className="text-2xl md:text-4xl font-bold tracking-tighter text-primary-foreground">
-                CUT<span className="text-secondary">FRAME</span>
+                LENS<span className="text-secondary">IFY</span>
               </span>
             </div>
           </Link>
